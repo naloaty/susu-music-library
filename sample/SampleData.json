@@ -1,0 +1,630 @@
+{
+    "Bands": [
+        {
+            "authorId": 1,
+            "name": "AC/DC"
+        },
+        {
+            "authorId": 2,
+            "name": "Rammstein"
+        },
+        {
+            "authorId": 3,
+            "name": "Metallica"
+        },
+        {
+            "authorId": 4,
+            "name": "Linkin Park"
+        },
+        {
+            "authorId": 7,
+            "name": "Гражданская оборона"
+        },
+        {
+            "authorId": 11,
+            "name": "The Piano Guys"
+        },
+        {
+            "authorId": 13,
+            "name": "Led Zeppelin"
+        },
+        {
+            "authorId": 14,
+            "name": "The Rolling Stones"
+        },
+        {
+            "authorId": 16,
+            "name": "Pink Floyd"
+        },
+        {
+            "authorId": 17,
+            "name": "James Gang"
+        },
+        {
+            "authorId": 18,
+            "name": "Deep Purple"
+        },
+        {
+            "authorId": 20,
+            "name": "Axel Rudi Pell"
+        },
+        {
+            "authorId": 22,
+            "name": "Redbone"
+        },
+        {
+            "authorId": 24,
+            "name": "Starship"
+        },
+        {
+            "authorId": 26,
+            "name": "Empire Of The Sun"
+        }
+    ],
+    "DiscSongs": [
+        {
+            "discId": 1,
+            "songId": 1
+        },
+        {
+            "discId": 2,
+            "songId": 2
+        },
+        {
+            "discId": 2,
+            "songId": 3
+        },
+        {
+            "discId": 2,
+            "songId": 4
+        },
+        {
+            "discId": 2,
+            "songId": 5
+        },
+        {
+            "discId": 2,
+            "songId": 6
+        },
+        {
+            "discId": 2,
+            "songId": 7
+        },
+        {
+            "discId": 2,
+            "songId": 8
+        },
+        {
+            "discId": 2,
+            "songId": 9
+        },
+        {
+            "discId": 2,
+            "songId": 10
+        },
+        {
+            "discId": 1,
+            "songId": 15
+        },
+        {
+            "discId": 4,
+            "songId": 16
+        },
+        {
+            "discId": 4,
+            "songId": 17
+        },
+        {
+            "discId": 4,
+            "songId": 18
+        },
+        {
+            "discId": 4,
+            "songId": 19
+        },
+        {
+            "discId": 4,
+            "songId": 20
+        },
+        {
+            "discId": 4,
+            "songId": 21
+        },
+        {
+            "discId": 4,
+            "songId": 22
+        },
+        {
+            "discId": 4,
+            "songId": 23
+        },
+        {
+            "discId": 4,
+            "songId": 24
+        },
+        {
+            "discId": 4,
+            "songId": 25
+        },
+        {
+            "discId": 4,
+            "songId": 26
+        },
+        {
+            "discId": 4,
+            "songId": 27
+        },
+        {
+            "discId": 4,
+            "songId": 28
+        },
+        {
+            "discId": 4,
+            "songId": 29
+        },
+        {
+            "discId": 4,
+            "songId": 30
+        },
+        {
+            "discId": 4,
+            "songId": 31
+        },
+        {
+            "discId": 5,
+            "songId": 32
+        },
+        {
+            "discId": 5,
+            "songId": 33
+        },
+        {
+            "discId": 5,
+            "songId": 34
+        },
+        {
+            "discId": 5,
+            "songId": 35
+        },
+        {
+            "discId": 5,
+            "songId": 36
+        },
+        {
+            "discId": 5,
+            "songId": 37
+        },
+        {
+            "discId": 5,
+            "songId": 38
+        },
+        {
+            "discId": 5,
+            "songId": 15
+        },
+        {
+            "discId": 6,
+            "songId": 39
+        },
+        {
+            "discId": 6,
+            "songId": 40
+        },
+        {
+            "discId": 6,
+            "songId": 41
+        },
+        {
+            "discId": 6,
+            "songId": 42
+        },
+        {
+            "discId": 6,
+            "songId": 43
+        },
+        {
+            "discId": 6,
+            "songId": 44
+        },
+        {
+            "discId": 6,
+            "songId": 45
+        },
+        {
+            "discId": 6,
+            "songId": 46
+        },
+        {
+            "discId": 6,
+            "songId": 1
+        },
+        {
+            "discId": 6,
+            "songId": 12
+        },
+        {
+            "discId": 6,
+            "songId": 13
+        },
+        {
+            "discId": 6,
+            "songId": 14
+        },
+        {
+            "discId": 6,
+            "songId": 2
+        },
+        {
+            "discId": 1,
+            "songId": 47
+        },
+        {
+            "discId": 1,
+            "songId": 48
+        },
+        {
+            "discId": 1,
+            "songId": 49
+        },
+        {
+            "discId": 1,
+            "songId": 50
+        }
+    ],
+    "Discs": [
+        {
+            "discId": 1,
+            "name": "Rock"
+        },
+        {
+            "discId": 2,
+            "name": "Best of Metal"
+        },
+        {
+            "discId": 4,
+            "name": "Piano Classics"
+        },
+        {
+            "discId": 5,
+            "name": "Rock Classics"
+        },
+        {
+            "discId": 6,
+            "name": "Favorites"
+        }
+    ],
+    "Singers": [
+        {
+            "authorId": 5,
+            "firstName": "Marilyn",
+            "lastName": "Manson"
+        },
+        {
+            "authorId": 6,
+            "firstName": "Александр",
+            "lastName": "Пушной"
+        },
+        {
+            "authorId": 8,
+            "firstName": "Alexis",
+            "lastName": "Ffrench"
+        },
+        {
+            "authorId": 9,
+            "firstName": "Ed",
+            "lastName": "Sheeran"
+        },
+        {
+            "authorId": 10,
+            "firstName": "Henry",
+            "lastName": "Smith"
+        },
+        {
+            "authorId": 12,
+            "firstName": "Jimi",
+            "lastName": "Hendrix"
+        },
+        {
+            "authorId": 15,
+            "firstName": "The",
+            "lastName": "Who"
+        },
+        {
+            "authorId": 19,
+            "firstName": "Bryan",
+            "lastName": "Adams"
+        },
+        {
+            "authorId": 21,
+            "firstName": "Belinda",
+            "lastName": "Carlisle"
+        },
+        {
+            "authorId": 23,
+            "firstName": "Tessa",
+            "lastName": "Violet"
+        },
+        {
+            "authorId": 25,
+            "firstName": "Olly",
+            "lastName": "Murs"
+        }
+    ],
+    "Songs": [
+        {
+            "authorId": 1,
+            "name": "Highway To Hell",
+            "songId": 1
+        },
+        {
+            "authorId": 2,
+            "name": "Du Hast",
+            "songId": 2
+        },
+        {
+            "authorId": 3,
+            "name": "Nothing Else Matters",
+            "songId": 3
+        },
+        {
+            "authorId": 3,
+            "name": "The Unforgiven",
+            "songId": 4
+        },
+        {
+            "authorId": 4,
+            "name": "Numb",
+            "songId": 5
+        },
+        {
+            "authorId": 3,
+            "name": "Die, Die My Darling",
+            "songId": 6
+        },
+        {
+            "authorId": 4,
+            "name": "In the End",
+            "songId": 7
+        },
+        {
+            "authorId": 4,
+            "name": "Faint",
+            "songId": 8
+        },
+        {
+            "authorId": 5,
+            "name": "Tainted Love",
+            "songId": 9
+        },
+        {
+            "authorId": 5,
+            "name": "The Nobodies",
+            "songId": 10
+        },
+        {
+            "authorId": 6,
+            "name": "Facebook",
+            "songId": 11
+        },
+        {
+            "authorId": 6,
+            "name": "Кукушка (cover version)",
+            "songId": 12
+        },
+        {
+            "authorId": 6,
+            "name": "От винта! (cover version)",
+            "songId": 13
+        },
+        {
+            "authorId": 6,
+            "name": "Всё идёт по плану! (cover version)",
+            "songId": 14
+        },
+        {
+            "authorId": 7,
+            "name": "Всё идёт по плану.",
+            "songId": 15
+        },
+        {
+            "authorId": 8,
+            "name": "Bluebird",
+            "songId": 16
+        },
+        {
+            "authorId": 8,
+            "name": "Moments",
+            "songId": 17
+        },
+        {
+            "authorId": 9,
+            "name": "Perfect (Piano Version)",
+            "songId": 18
+        },
+        {
+            "authorId": 11,
+            "name": "A Thousand Years",
+            "songId": 19
+        },
+        {
+            "authorId": 8,
+            "name": "Walk With Us",
+            "songId": 20
+        },
+        {
+            "authorId": 8,
+            "name": "Halo",
+            "songId": 21
+        },
+        {
+            "authorId": 8,
+            "name": "Wishing",
+            "songId": 22
+        },
+        {
+            "authorId": 10,
+            "name": "Shallow (Piano Version)",
+            "songId": 23
+        },
+        {
+            "authorId": 11,
+            "name": "Someone You Loved",
+            "songId": 24
+        },
+        {
+            "authorId": 10,
+            "name": "Someone Like You",
+            "songId": 25
+        },
+        {
+            "authorId": 10,
+            "name": "All of Me",
+            "songId": 26
+        },
+        {
+            "authorId": 11,
+            "name": "Bless the Broken Road",
+            "songId": 27
+        },
+        {
+            "authorId": 10,
+            "name": "Say Something (Piano Version)",
+            "songId": 28
+        },
+        {
+            "authorId": 10,
+            "name": "Let Her Go (Piano Version)",
+            "songId": 29
+        },
+        {
+            "authorId": 10,
+            "name": "Yellow (Piano Version)",
+            "songId": 30
+        },
+        {
+            "authorId": 10,
+            "name": "Stay With Me (Piano Version)",
+            "songId": 31
+        },
+        {
+            "authorId": 12,
+            "name": "Purple Haze",
+            "songId": 32
+        },
+        {
+            "authorId": 13,
+            "name": "Whole Lotta Love",
+            "songId": 33
+        },
+        {
+            "authorId": 14,
+            "name": "Sympathy for the Devil",
+            "songId": 34
+        },
+        {
+            "authorId": 15,
+            "name": "Baba O'Riley",
+            "songId": 35
+        },
+        {
+            "authorId": 16,
+            "name": "Comfortably Numb",
+            "songId": 36
+        },
+        {
+            "authorId": 17,
+            "name": "Funk #49",
+            "songId": 37
+        },
+        {
+            "authorId": 18,
+            "name": "Smoke on the Water",
+            "songId": 38
+        },
+        {
+            "authorId": 26,
+            "name": "High And Low",
+            "songId": 39
+        },
+        {
+            "authorId": 25,
+            "name": "That Girl",
+            "songId": 40
+        },
+        {
+            "authorId": 23,
+            "name": "Crush",
+            "songId": 41
+        },
+        {
+            "authorId": 23,
+            "name": "Bored",
+            "songId": 42
+        },
+        {
+            "authorId": 22,
+            "name": "Come And Get Your Love",
+            "songId": 43
+        },
+        {
+            "authorId": 21,
+            "name": "Heaven Is A Place On Earth",
+            "songId": 44
+        },
+        {
+            "authorId": 19,
+            "name": "Summer Of '69",
+            "songId": 45
+        },
+        {
+            "authorId": 24,
+            "name": "Nothing's Gonna Stop Us Now",
+            "songId": 46
+        },
+        {
+            "authorId": 1,
+            "name": "High Voltage",
+            "songId": 47
+        },
+        {
+            "authorId": 1,
+            "name": "T.N.T.",
+            "songId": 48
+        },
+        {
+            "authorId": 1,
+            "name": "Black in Black",
+            "songId": 49
+        },
+        {
+            "authorId": 1,
+            "name": "Power Up",
+            "songId": 50
+        },
+        {
+            "authorId": 13,
+            "name": "Stairway to Heaven",
+            "songId": 51
+        },
+        {
+            "authorId": 13,
+            "name": "Immigrant Song",
+            "songId": 52
+        },
+        {
+            "authorId": 13,
+            "name": "Whole Lotta Love",
+            "songId": 53
+        },
+        {
+            "authorId": 13,
+            "name": "Kashmir",
+            "songId": 54
+        },
+        {
+            "authorId": 13,
+            "name": "New Song",
+            "songId": 55
+        }
+    ]
+}
